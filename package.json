@@ -1,0 +1,34 @@
+{
+  "name": "dsh-almanac",
+  "version": "0.1.0",
+  "description": "黄历与干支工具：干支纪年、生肖、二十四节气、日期信息（本地计算，文化参考）",
+  "type": "module",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "cordis.patch.yml",
+    "README.md"
+  ],
+  "keywords": [
+    "dsh",
+    "dsh-plugin",
+    "almanac",
+    "黄历",
+    "干支",
+    "节气",
+    "文化"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moldkey/dsh-almanac.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "engines": {
+    "dsh": ">=0.2.0-rc.2"
+  }
+}
