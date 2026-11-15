@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-almanac.svg)](https://deepseekbase.com/plugins/dsh-almanac/)
 <p align="center"><strong>dsh-almanac — 黄历与干支</strong></p>
 
 干支纪年、生肖、二十四节气、日期信息。本地计算，文化参考。
